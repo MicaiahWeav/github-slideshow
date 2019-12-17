@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Welcome to our slide deck!"
+---
+Github's password requirements suck!
+Use the right arrow to begin!
