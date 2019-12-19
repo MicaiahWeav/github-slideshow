@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-Github's password requirements suck!
+Hi I want to make the big bucks!
 Use the right arrow to begin!
